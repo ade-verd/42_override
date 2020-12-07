@@ -1,4 +1,4 @@
-# Level08 - 64 bits - Serial decoding
+# Level08 - 64 bits - Open path trick
 
 ## Local script usage
 
