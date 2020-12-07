@@ -10,7 +10,7 @@ You can setup requirements with the script: [scripts/installUtils.sh](../../scri
 
 ```shell
 ./scripts/installUtils.sh
-./level07/Ressources/main.sh
+./level09/Ressources/main.sh
 ```
 
 ## Passwords and token
