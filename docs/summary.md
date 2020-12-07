@@ -260,7 +260,7 @@ $ whoami
 
 ---
 
-## Level08 - 64 bits -
+## Level08 - 64 bits - Open path trick
 
 First of all, the program needs one argument, which is a file. It will basically do a backup of its content inside the `backups` folder, and write the logs inside `.log`.
 
